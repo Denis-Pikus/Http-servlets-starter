@@ -1,4 +1,4 @@
-package dpdev.socket;
+package client;
 
 import java.io.IOException;
 import java.net.URL;
